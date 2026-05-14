@@ -1,5 +1,5 @@
 # HaptyApp
-**HaptyApp** is an Android-based "Digital Twin" application designed to assist blind and visually impaired students in learning computer science. It acts as the interactive software layer for a 3D-printed physical tactile mask, providing audio feedback and guidance as the user explores the physical board.
+**HaptyApp** is an Android-based "Digital Twin" applicationof the HaptyHub Desktop App designed to assist blind and visually impaired students in learning computer science. It acts as the interactive software layer for a 3D-printed physical tactile mask, providing audio feedback and guidance as the user explores the physical board.
 
 ## Features
 - **Multiple Expertise Levels**: different audio description of the nodes based on the expertise of the user.   
