@@ -1,5 +1,7 @@
 # HaptyApp - Digital Twin Companion
 
+*Other languages: [Italian](README.it.md)*
+
 HaptyApp is the Android application designed as the digital counterpart (Digital Twin) for the [HaptyHub](https://github.com/DavideFantasia/HaptyHub) ecosystem. The application allows you to view and interact with the diagrams and graphs generated via the desktop application, acting as an interactive visual layer to overlay or place alongside 3D printed tactile models.
 
 The app is developed in `Kotlin` and uses the spatial data produced by the ELK layout engine to ensure a perfect correspondence between the visual elements on screen and the physical reliefs of the tactile model.
